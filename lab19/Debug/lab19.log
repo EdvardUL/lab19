@@ -1,0 +1,9 @@
+﻿  lab19.cpp
+C:\Users\User\source\repos\lab19\lab19\task6.h(17,15): warning C4477: "fscanf_s": в строке форматирования "%c" требуется аргумент типа "unsigned int", но вариативный аргумент "4" имеет тип "bool *"
+C:\Users\User\source\repos\lab19\lab19\task6.h(17,15): message : этот аргумент используется в качестве размера буфера
+C:\Users\User\source\repos\lab19\lab19\task6.h(17,15): warning C4476: "fscanf_s": неизвестный символ поля типа "b" в описателе формата
+C:\Users\User\source\repos\lab19\lab19\task6.h(17,15): warning C4473: "fscanf_s": передано недостаточно аргументов для строки формата
+C:\Users\User\source\repos\lab19\lab19\task6.h(17,15): message : заполнители и их параметры ожидают переменное число аргументов в количестве 6, но было предоставлено 5
+C:\Users\User\source\repos\lab19\lab19\task6.h(17,15): message : отсутствующий вариативный аргумент "6" требуется для строки форматирования "%s"
+C:\Users\User\source\repos\lab19\lab19\task6.h(17,15): message : этот аргумент используется в качестве размера буфера
+  lab19.vcxproj -> C:\Users\User\source\repos\lab19\Debug\lab19.exe
